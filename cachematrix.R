@@ -8,7 +8,7 @@
 ##    and the inverse matrix is returned
 ##
 ## Code note: The course notes show makeVector including a subfunction 'set'. 
-## I have omittewd 'this'set' as it is not called and does not change the functionality.
+## I have omitted 'set' as it is not called and does not change the functionality.
 
 
 ## The makeCacheMatrix function creates a cache. The cache is a list of functions which 
